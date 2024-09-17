@@ -17,7 +17,17 @@ function ProductTable() {
             <Table.ColumnHeader colspan="2">Sports Goods</Table.ColumnHeader>
           </Table.Row>
           <Table.Row>
-            <Table.Column>Football</Table.Column>
+            <Table.Column>Tennis</Table.Column>
+            <Table.Column>$49.99</Table.Column>
+          </Table.Row>
+        </Table.TBody>
+
+        <Table.TBody>
+          <Table.Row>
+            <Table.ColumnHeader colspan="2">Sports Goods</Table.ColumnHeader>
+          </Table.Row>
+          <Table.Row>
+            <Table.Column>volleyball</Table.Column>
             <Table.Column>$49.99</Table.Column>
           </Table.Row>
         </Table.TBody>
